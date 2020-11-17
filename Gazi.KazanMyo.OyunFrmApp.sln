@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.KazanMyo.OyunFrmApp", "Gazi.KazanMyo.OyunFrmApp\Gazi.KazanMyo.OyunFrmApp.csproj", "{9AA47D74-8002-493B-8933-8F5DE87E0101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA47D74-8002-493B-8933-8F5DE87E0101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA47D74-8002-493B-8933-8F5DE87E0101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA47D74-8002-493B-8933-8F5DE87E0101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA47D74-8002-493B-8933-8F5DE87E0101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D542B8F-2EE9-40C6-8B74-5D1CDD315238}
+	EndGlobalSection
+EndGlobal
